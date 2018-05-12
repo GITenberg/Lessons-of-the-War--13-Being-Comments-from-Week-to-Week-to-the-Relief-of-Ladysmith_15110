@@ -1,0 +1,28 @@
+_repo: Lessons-of-the-War--13-Being-Comments-from-Week-to-Week-to-the-Relief-of-Ladysmith_15110
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilkinson, Spenser
+    alias: Wilkinson, Henry Spenser
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '3607'
+    url: http://www.gutenberg.org/2009/agents/3607
+    wikipedia: http://en.wikipedia.org/wiki/Spenser_Wilkinson
+description: Consists of articles from The London Letter
+gutenberg_issued: '2005-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902'
+- !lcc 'DT'
+title: "Lessons of the War\r\nBeing Comments from Week to Week to the Relief of Ladysmith"
+url: http://www.gutenberg.org/ebooks/15110
