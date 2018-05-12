@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3607
     wikipedia: http://en.wikipedia.org/wiki/Spenser_Wilkinson
 description: Consists of articles from The London Letter
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15110#Lessons-of-the-War--13-Being-Comments-from-Week-to-Week-to-the-Relief-of-Ladysmith
 gutenberg_issued: '2005-02-19'
 gutenberg_type: Text
 identifiers:
